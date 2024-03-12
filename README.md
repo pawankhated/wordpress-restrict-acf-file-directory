@@ -1,6 +1,6 @@
 I've implemented a new feature that restricts access to uploaded files to ensure the security and privacy of  data. 
 
-I have uploaded acf uploaded file on new specific location and restrict that directory. 
+I have upload acf file on new specific location and restrict that directory. 
 
 users will only be able to access uploaded files if they are logged in with their respective accounts and have the necessary permissions. If a user attempts to access a file without being logged in, they will encounter a 403 - Forbidden error message.
 
